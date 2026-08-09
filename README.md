@@ -1,23 +1,21 @@
 # Stardance
 
-A clean and modern personal portfolio website built with HTML, CSS, and JavaScript. This project showcases my personal brand, projects, journey, and contact information in a simple single-page layout.
+Stardance is a personal portfolio website built with HTML, CSS, and JavaScript. It is designed to introduce myself, share my interests, highlight my projects, and provide links to my social profiles.
 
-## Project Overview
+## What This Project Includes
 
-Stardance is a lightweight portfolio website designed to:
-- present my introduction and background
-- highlight projects and interests
-- provide links to social and professional profiles
-- deliver a polished, responsive experience across devices
+This project contains:
+- [index.html](index.html) for the website structure and content
+- [style.css](style.css) for the visual design, layout, colors, spacing, and responsive styling
+- [script.js](script.js) for a simple interactive feature on the page
 
 ## Features
 
-- Responsive navigation and layout
-- Smooth scrolling between sections
-- Modern dark-themed design
-- Project showcase section
-- Contact section with social links
-- Simple and easy-to-edit structure
+- Clean and modern personal portfolio layout
+- Sections for About, Projects, Journey, and Contact
+- Responsive design for different screen sizes
+- Smooth scrolling and polished styling
+- Simple interactive button effect using JavaScript
 
 ## Tech Stack
 
@@ -34,31 +32,28 @@ Stardance/
 └── script.js
 ```
 
-## How to Run
+## How to View the Project
 
-1. Open the project folder in your browser.
-2. Open [index.html](index.html) directly, or use a simple local server if preferred.
-
-Example:
+You can open [index.html](index.html) directly in your browser, or run a local server:
 
 ```bash
 cd /home/snaggingcobra/VsCode/Stardance
 python3 -m http.server 8000
 ```
 
-Then open: http://localhost:8000
+Then visit:
+
+```text
+http://localhost:8000
+```
 
 ## AI Usage
 
-This project also reflects some AI-assisted development work, including:
-- improving the visual styling and layout through CSS refinement
-- helping fix small UI and structure issues
-- assisting with debugging and resolving GitHub push errors
-- improving overall project clarity and documentation
-
-## Notes
-
-The website is intentionally simple and beginner-friendly, making it a great example of a personal portfolio built from scratch with core web technologies.
+AI was used to help improve this project in several ways, including:
+- improving the CSS styling and overall visual design
+- fixing small layout and bug issues
+- helping with GitHub push and repository setup problems
+- improving the README and project documentation
 
 ## Author
 
